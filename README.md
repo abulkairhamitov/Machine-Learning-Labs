@@ -1,2 +1,2 @@
 # Machine-Learning-Labs
-laboratory works on the subject "Machine learning"
+Laboratory works on the subject "Machine learning"
